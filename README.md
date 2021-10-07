@@ -1,2 +1,2 @@
-# LinkedLlist
+# LinkedList
 LinkedList
